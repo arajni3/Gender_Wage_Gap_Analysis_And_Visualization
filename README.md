@@ -1,2 +1,2 @@
-# Annual_Enterprise_MySQL
-Using SQL functions on the "Annual enterprise survey: 2019 financial year (provisional) - CSV" file from https://www.stats.govt.nz/large-datasets/csv-files-for-download/.
+# Gender_Wage_Gap_Analysis_And_Visualization
+Analysis and visualization of the gender wage gap dataset GENDER_EMP_29052021080853531.csv from OECD using MySQL and the Pandas package from Python.
